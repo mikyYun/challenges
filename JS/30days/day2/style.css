@@ -1,0 +1,79 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  background: #5452e9 url(https://unsplash.it/1500/1000?image=881&blur=5);
+  background-size: cover;
+  /* background-repeat: no-repeat; */
+  text-align: center;
+  font-size: 10px;
+}
+body {
+  font-size: 2rem;
+  min-height: 100vh;
+  align-items: center;
+  padding-top: 50%;
+}
+
+.clock {
+  width: 30rem;
+  height: 30rem;
+  border: 2rem solid white;
+  border-radius: 50%;
+  margin: auto;
+  position: relative;
+  padding: 2rem;
+  box-shadow: 0 0 0 4px rgba(0,0,0,.1),
+  inset 0 0 0 3px #EFEFEF,
+  inset 0 0 10px black,
+  0 0 10px rgba(0,0,0,.2);
+}
+
+.clock-face {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  transform: translateY(-3px);
+}
+
+.hand {
+  height: 50%;
+  border-radius: 3px;
+  background: black;
+  position: absolute;
+  left: 50%;
+  transform-origin: bottom;
+  transition: all 1s;
+  /* transition: none; */
+}
+.hand.hour-hand {
+  height: 25%;
+  top: 25%;
+  background: white;
+  width: 10px;
+  left: calc(50% - 3px);
+}
+.hand.min-hand {
+  width: 6px;
+  background: grey;
+  left: calc(50% - 1px);
+}
+.hand.sec-hand {
+  width: 4px;
+  background: red;
+}
+
+.table-clock {
+  margin: auto;
+  margin-top: 2rem;
+  border: 1rem solid skyblue;
+  color: white;
+}
+
+.seconds {
+  color: red;
+  opacity: .7;
+}
