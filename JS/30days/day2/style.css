@@ -46,8 +46,8 @@ body {
   position: absolute;
   left: 50%;
   transform-origin: bottom;
-  transition: all 1s;
-  /* transition: none; */
+  /* transition: all 1s; */
+  transition: none;
 }
 .hand.hour-hand {
   height: 25%;
