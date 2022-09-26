@@ -4,6 +4,9 @@ async function goodbye() {
   return 'goodbye';
 }
 
+// Answer
+// Promise
+
 /**
  * Async function return Promises.
  * 
