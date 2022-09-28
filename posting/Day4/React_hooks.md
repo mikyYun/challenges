@@ -182,3 +182,5 @@ CRA_pros:
 
   Then, Babel will automatically transpile any script tags with type 'text/babel' OR 'text/jsx'
 </p2>
+
+### Steps __ create components and test
