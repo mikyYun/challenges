@@ -1,6 +1,6 @@
 # BLENDER STUDY
 
-## Create blender model
+## Create 3D model with Blender
 
 ### Details
 * One model every week
