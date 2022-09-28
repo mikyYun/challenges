@@ -165,6 +165,9 @@ CRA_pros:
 
     npm start
   </li>
+  <li>Publish on NPM:<br />
+    
+  </li>
 </ol>
 <img src="./_docs/reactApp.png" attr="structure"/>
 <img src="./_docs/main.png" attr="structure"/>
