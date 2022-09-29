@@ -16,10 +16,13 @@ Searching(DOCS || Stack Overflow) / Discussions
 * DAY_3: React Re-rendering
 * DAY_4: React Hooks
 * DAY_5: Understanding Context in JS
-* DAY_6: JS _ this / closure / Event loop / Event Bubbling / Capturing Delegation
-* DAY_7: Promise / Async Await (+ exceptions)
-* DAY_8: JS _ Primitive / Reference Type
-* DAY_9: JS + Garbage Collection 
-* DAY_10: how html, css, and js are rendering in browser (+ repainting, reflow) 
-* DAY_11: Date / Moment / Reason
-* Day_12: TCP / UDP
+* DAY_6: JS _ this / closure
+* Day_7: Event loop
+* Day_8: Event Bubbling
+* Day_9: Capturing Delegation
+* DAY_10: Promise / Async Await (+ exceptions)
+* DAY_11: JS _ Primitive / Reference Type
+* DAY_12: JS + Garbage Collection 
+* DAY_13: how html, css, and js are rendering in browser (+ repainting, reflow) 
+* DAY_14: Date / Moment / Reason
+* Day_15: TCP / UDP
