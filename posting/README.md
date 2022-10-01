@@ -11,13 +11,13 @@ This repo is to broaden knowledges in new tech and different solutions around wo
 Searching(DOCS || Stack Overflow) / Discussions
 
 ### PLAN
-* DAY_1: DNS / type url
-* DAY_2: HTML Semantics
-* DAY_3: React Re-rendering
-* DAY_4: React Hooks
-* DAY_5: Understanding Context in JS
-* DAY_6: JS _ this / closure
-* Day_7: Event loop
+* ~~DAY_1: DNS / type url~~
+* ~~DAY_2: HTML Semantics~~
+* ~~DAY_3: React Re-rendering~~
+* ~~DAY_4: React Hooks~~
+* ~~DAY_5: Understanding Context in JS~~
+* ~~DAY_6: JS _ this / closure~~
+* ~~Day_7: Event loop~~
 * Day_8: Event Bubbling
 * Day_9: Capturing Delegation
 * DAY_10: Promise / Async Await (+ exceptions)
@@ -27,4 +27,4 @@ Searching(DOCS || Stack Overflow) / Discussions
 * DAY_14: Date / Moment / Reason
 * Day_15: TCP / UDP
 * Day_16: Node.js cluster 
-* Day_17:  Web Worker(?)
+* Day_17: Web Worker(?)
