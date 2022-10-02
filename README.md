@@ -6,4 +6,3 @@
 * 30 Days JS Challenge with https://javascript30.com/ _ FROM Sep 24, 2022
 * Solve leetcode problem at least one in a week _ FROM Sep 24, 2022
 * Read articles and post at least one everyday _ FROM Sep 24, 2022
-* One 3D Model using blender once a week _ FROM Sep 24, 2022
