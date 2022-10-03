@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Console Tricks</title>
+    <script defer>
+      const dogs = [
+        { name: "Snickers", age: 2 },
+        { name: "hugo", age: 8 },
+      ];
+
+      function makeGreen() {
+        const button = document.querySelector("button");
+        button.style.color = "#BADA55";
+        button.style.fontSize = "50px";
+      }
+
+      // regular
+      console.log("this is a regular console.log");
+
+      // interpolated
+      console.log("First string", "Second String");
+
+      // styled
+      console.log(
+        "%c I am some great text",
+        "font-size:50px; background:red; text-shadow: 10px 10px 0 blue"
+      );
+
+      // warning
+      console.warn("warning");
+
+      // error
+      // console.error("ERR");
+
+      // info
+      console.info("Information console");
+
+      // testing
+      // console.log(compare, wrongMessage)
+      const A = "test";
+      const a = "test";
+      const Aa = a;
+      const b = 1;
+      const c = "1";
+      console.assert(A === a, "WRONG");
+      console.assert(A === Aa, "WRONG");
+      console.assert(A !== Aa, "WRONG");
+      console.assert(b === a, "WRONG");
+      console.assert(b === 1, "WRONG");
+      console.assert(c === b, "WRONG");
+
+      // clearing
+      console.clear();
+
+      // viewing DOM element
+      const p = document.querySelector("p");
+      console.log(p);
+      console.dir(p);
+
+      // grouping
+      dogs.forEach((dog) => {
+        console.groupCollapsed()
+        console.log(dog.name);
+        console.log(`${dog.name} is ${dog.age} old years`);
+        console.groupEnd()
+      });
+
+      // counting
+      console.count("AA")
+      console.count("AC")
+      console.count("AB")
+      console.count("AA")
+      console.count("AB")
+      console.count("AA")
+      console.count("AD")
+      console.count("AD")
+      console.count("AA")
+
+      // timing
+      console.time("timing");
+      for (let i = 0; i < 10; i ++) {
+        console.log(i);
+      }
+      console.timeEnd("timing")
+
+
+    </script>
+  </head>
+  <body>
+    <button id="button" onclick="makeGreen()">BREAK DOWN</button>
+    <p>P TAG</p>
+  </body>
+</html>
