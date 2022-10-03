@@ -18,7 +18,8 @@ Searching(DOCS || Stack Overflow) / Discussions
 * ~~DAY_5: Understanding Context in JS~~
 * ~~DAY_6: JS _ this / closure~~
 * ~~Day_7: Event loop~~
-* Day_8: Event Bubbling
+* ~~Day_8_: React SideNote~~ 
+* ~~Day_8: Event Bubbling~~
 * Day_9: Capturing Delegation
 * DAY_10: Promise / Async Await (+ exceptions)
 * DAY_11: JS _ Primitive / Reference Type
