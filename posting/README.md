@@ -19,13 +19,14 @@ Searching(DOCS || Stack Overflow) / Discussions
 * ~~DAY_6: JS _ this / closure~~
 * ~~Day_7: Event loop~~
 * ~~Day_8_: React SideNote~~ 
-* ~~Day_8: Event Bubbling~~
-* Day_9: Capturing Delegation
-* DAY_10: Promise / Async Await (+ exceptions)
-* DAY_11: JS _ Primitive / Reference Type
-* DAY_12: JS + Garbage Collection 
-* DAY_13: how html, css, and js are rendering in browser (+ repainting, reflow) 
-* DAY_14: Date / Moment / Reason
-* Day_15: TCP / UDP
-* Day_16: Node.js cluster 
-* Day_17: Web Worker(?)
+* ~~Day_9: Event Bubbling~~
+* ~~Day_10: Capturing Delegation~~
+* DELAY..
+* DAY_11: Promise / Async Await (+ exceptions)
+* DAY_12: JS _ Primitive / Reference Type
+* DAY_13: JS + Garbage Collection 
+* DAY_14: how html, css, and js are rendering in browser (+ repainting, reflow) 
+* DAY_15: Date / Moment / Reason
+* Day_16: TCP / UDP
+* Day_17: Node.js cluster 
+* Day_18: Web Worker(?)
