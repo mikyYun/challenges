@@ -26,7 +26,7 @@ Searching(DOCS || Stack Overflow) / Discussions
 * ~~DAY_12: JS _ Primitive / Reference Type~~
 * ~~DAY_13: JS + Garbage Collection~~
 * ~~DAY_14: how html, css, and js are rendering in browser (+ repainting, reflow)~~ 
-* DAY_15: Date / Moment / Reason
+* ~~DAY_15: Date / Moment / Reason ~~
 * Day_16: TCP / UDP
 * Day_17: Node.js cluster 
 * Day_18: Web Worker(?)
