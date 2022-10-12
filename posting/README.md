@@ -29,4 +29,4 @@ Searching(DOCS || Stack Overflow) / Discussions
 * ~~DAY_15: Date / Moment / Reason ~~
 * ~~Day_16: TCP / UDP~~
 * ~~Day_17: Node.js cluster~~ 
-* Day_18: Web Worker(?)
+* ~~Day_18: Web Worker(?)~~
