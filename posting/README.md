@@ -30,5 +30,5 @@ Searching(DOCS || Stack Overflow) / Discussions
 * ~~Day_16: TCP / UDP~~
 * ~~Day_17: Node.js cluster~~ 
 * ~~Day_18: Web Worker(?)~~
-* Day29: JS Heap
-* Day30: 
+* ~~Day19: JS Heap~~
+* ~~Day20: JS Concepts~~
