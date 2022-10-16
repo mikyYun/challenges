@@ -31,4 +31,7 @@ Searching(DOCS || Stack Overflow) / Discussions
 * ~~Day_17: Node.js cluster~~ 
 * ~~Day_18: Web Worker(?)~~
 * ~~Day19: JS Heap~~
-* ~~Day20: JS Concepts~~
+* ~~Day20: JS Concepts1~~
+* Day21: JS Concepts2
+* Day22: JS Concepts3
+* Day23: JS Concepts
