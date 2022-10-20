@@ -36,7 +36,7 @@ Searching(DOCS || Stack Overflow) / Discussions
 * ~~Day22: JS Concepts3~~
 * ~~Day23: JS Concepts4~~
 * ~~Day24: JS Concepts5~~
-* Day25: JS Concepts
-* Day26: Bitwise Operator
+* ~~Day25: JS Concepts~~
+* ~~Day26: Bitwise Operator~~
 * Day26: Time Complexity
 * Day27: NodeLists
