@@ -38,6 +38,6 @@ Searching(DOCS || Stack Overflow) / Discussions
 * ~~Day24: JS Concepts5~~
 * ~~Day25: JS Concepts~~
 * ~~Day26: Bitwise Operator~~
-* Day26: Time Complexity
+* ~~Day26: Time Complexity~~
 * Day27: NodeLists
 * Day28: Data Cleaning
