@@ -41,5 +41,6 @@ Searching(DOCS || Stack Overflow) / Discussions
 * ~~Day27: Time Complexity~~
 * ~~Day28: NodeLists~~
 * ~~Day29: Data Cleaning~~
-* Day30: MongoDB(mongodb vs mongoose)
+* ~~Day30: MongoDB(mongodb vs mongoose)~~
 * Day31: BSON vs JSON
+* Day32: 
