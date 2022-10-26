@@ -42,5 +42,5 @@ Searching(DOCS || Stack Overflow) / Discussions
 * ~~Day28: NodeLists~~
 * ~~Day29: Data Cleaning~~
 * ~~Day30: MongoDB(mongodb vs mongoose)~~
-* Day31: BSON vs JSON
+* ~~Day31: BSON vs JSON~~
 * Day32: 
