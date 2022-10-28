@@ -44,7 +44,7 @@ Searching(DOCS || Stack Overflow) / Discussions
 * ~~Day30: MongoDB(mongodb vs mongoose)~~
 * ~~Day31: BSON vs JSON~~
 * ~~Day32: React Router vs React Router DOM~~
-* ~~Day33: 
+* ~~Day33: DB Design basics~~
 * ~~Day34: 
 * ~~Day35: 
 * ~~Day36: 
