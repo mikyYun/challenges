@@ -45,6 +45,6 @@ Searching(DOCS || Stack Overflow) / Discussions
 * ~~Day31: BSON vs JSON~~
 * ~~Day32: React Router vs React Router DOM~~
 * ~~Day33: DB Design basics~~
-* ~~Day34: 
-* ~~Day35: 
+* ~~Day34: Status Codes~~
+* ~~Day35: REGEX
 * ~~Day36: 
