@@ -47,4 +47,4 @@ Searching(DOCS || Stack Overflow) / Discussions
 * ~~Day33: DB Design basics~~
 * ~~Day34: Status Codes~~
 * ~~Day35: REGEX~~
-* ~~Day36: 
+* ~~Day36: let/const/var/hoisting/ArrowFunction/DOMElement~~
