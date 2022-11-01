@@ -46,5 +46,5 @@ Searching(DOCS || Stack Overflow) / Discussions
 * ~~Day32: React Router vs React Router DOM~~
 * ~~Day33: DB Design basics~~
 * ~~Day34: Status Codes~~
-* ~~Day35: REGEX
+* ~~Day35: REGEX~~
 * ~~Day36: 
