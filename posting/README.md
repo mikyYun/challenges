@@ -48,3 +48,4 @@ Searching(DOCS || Stack Overflow) / Discussions
 * ~~Day34: Status Codes~~
 * ~~Day35: REGEX~~
 * ~~Day36: let/const/var/hoisting/ArrowFunction/DOMElement~~
+* Day37: Binary
