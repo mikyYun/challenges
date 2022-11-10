@@ -18,3 +18,6 @@ LSM-trees
 
 ## Aggregation: Data Cubes and Materialized Views
 Columnar storage can be significantly faster for ad hoc analytical queries, so it is rapidly gaining popularity. Another aspect of dtata warehouses that is worth mentioning briefly is `materialized aggregates`.
+
+## Summary
+On a high level, we saw that storage engines fall into two broad categories: those optimized for transaction processing(OLTP), and those optimized for analytics (OLAP)

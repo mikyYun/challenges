@@ -50,4 +50,4 @@ Searching(DOCS || Stack Overflow) / Discussions
 * ~~Day36: let/const/var/hoisting/ArrowFunction/DOMElement~~
 * ~~Day37: Binary~~
 * ~~Day38: Lazy Loading~~
-* ~~Day39: RAM & ROM~~
+* ~~Day39: RAM & ROM~~ 
